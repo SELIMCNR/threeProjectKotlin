@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(this,"test",Toast.LENGTH_LONG).show()
 
+        /*
         binding.button.setOnClickListener (object : View.OnClickListener{
             override fun onClick(p0: View?) {
                 // this : annonymous inner class
@@ -41,6 +42,8 @@ class MainActivity : AppCompatActivity() {
             // this : main activity
             Toast.makeText(this@MainActivity,"test2",Toast.LENGTH_LONG).show()
         }
+        */
+
 
 
     }

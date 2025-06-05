@@ -10,9 +10,9 @@
     <Button
         android:id="@+id/button"
         android:layout_width="200dp"
-        android:layout_height="100dp"
+        android:layout_height="140dp"
         android:onClick="kaydet"
-        android:text="context"
+        android:text="context alert button"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
